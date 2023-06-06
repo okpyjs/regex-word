@@ -1,6 +1,6 @@
 # Regex Expert for Cleaning Text Strings
 
-To extract meaningful information from the csv and understand the extent of manual cleaning required, you can use regular expressions (regex) and apply data science techniques.
+To extract meaningful information from the csv and understand the extent of manual cleaning required, we can use regular expressions (regex) and apply data science techniques.
 
 1. Data Cleaning:
 - Remove leading and trailing whitespaces from the composition strings.
